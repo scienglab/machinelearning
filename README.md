@@ -7,3 +7,4 @@
   * http://www.ctocio.com/hotnews/15919.html
   * http://machinelearningmastery.com/java-machine-learning/
   * How to design a machine learning system: http://people.cs.pitt.edu/~milos/courses/cs2750-Spring03/lectures/class2.pdf
+  * tutorials: https://www.cs.cmu.edu/~awm/tutorials.html
